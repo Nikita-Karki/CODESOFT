@@ -1,2 +1,2 @@
 # CODESOFT
-Repository for the codesoft internship task  
+Internship tasks assigned by codesoft
